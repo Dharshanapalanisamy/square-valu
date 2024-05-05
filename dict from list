@@ -1,0 +1,4 @@
+keys = ['Name', 'Age', 'City']
+values = ['John', 25, 'New York']
+result_dict = dict(zip(keys, values))
+print("Dictionary from two lists:", result_dict)
